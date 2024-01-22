@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "bb141f5c7155044b",
+    "type": "split",
+    "children": [
+      {
+        "id": "984d11a1887dd621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb48feed60bccb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "565010aebd6aa235",
+    "type": "split",
+    "children": [
+      {
+        "id": "75792c88cb25e9b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87a75b75800c69b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9efddea85388ae4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c51493cb5521f1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cdea32a5eb736b40",
+    "type": "split",
+    "children": [
+      {
+        "id": "12267aae0703e1ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a204fb46f412f36c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07eb07ab6ec03b0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "944e5166aeb52ee9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5579d35fda54c7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "코딩/Game Dev/Tips/이벤트 시스템.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1bb48feed60bccb6",
+  "lastOpenFiles": [
+    "README.md",
+    "코딩/Game Dev/Ideas/공포게임.md",
+    "코딩/Game Dev/Tips/이벤트 시스템.md",
+    "코딩/Game Dev/Ideas",
+    "무제 파일.md",
+    "코딩/Game Dev/무제 파일.canvas",
+    "코딩/Game Dev/Tips",
+    "코딩/Game Dev",
+    "코딩"
+  ]
+}
