@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "file": "코딩/Game Dev/Ideas/공포게임(미제).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "file": "코딩/Game Dev/Ideas/공포게임(미제).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "file": "코딩/Game Dev/Ideas/공포게임(미제).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩/Game Dev/Tips/이벤트 시스템.md"
+                "file": "코딩/Game Dev/Ideas/공포게임(미제).md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "1bb48feed60bccb6",
   "lastOpenFiles": [
-    "README.md",
-    "코딩/Game Dev/Ideas/공포게임.md",
     "코딩/Game Dev/Tips/이벤트 시스템.md",
+    "README.md",
+    "코딩/Game Dev/Ideas/공포게임(미제).md",
     "코딩/Game Dev/Ideas",
     "무제 파일.md",
     "코딩/Game Dev/무제 파일.canvas",
