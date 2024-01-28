@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/Game Dev/Tips/단계의 추상화.md",
+                "file": "코딩/Game Dev/VFX/Nodes/Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩/Game Dev/Tips/단계의 추상화.md",
+                "file": "코딩/Game Dev/VFX/Nodes/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩/Game Dev/Tips/단계의 추상화.md",
+                "file": "코딩/Game Dev/VFX/Nodes/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩/Game Dev/Tips/단계의 추상화.md"
+                "file": "코딩/Game Dev/VFX/Nodes/Context.md"
               }
             }
           },
@@ -156,18 +156,27 @@
   },
   "active": "1bb48feed60bccb6",
   "lastOpenFiles": [
-    "코딩/기상 프로그램.md",
-    "코딩/Game Dev/Tips/단계의 추상화.md",
-    "코딩/Game Dev/Tips/이벤트 시스템.md",
-    "코딩/Game Dev/Tips/람다식.md",
-    "코딩/Game Dev/Ideas/공포게임.md",
+    "코딩/Game Dev/VFX/Nodes/System.md",
+    "코딩/Game Dev/VFX/Nodes/Context.md",
+    "코딩/Game Dev/VFX/VFX Graph.md",
+    "코딩/Game Dev/VFX/Nodes",
+    "코딩/Game Dev/VFX",
+    "코딩/공부할 것들 목록/Index.md",
+    "Image/VFX_2.png",
+    "Image/VFX_1.png",
     "README.md",
-    "코딩/Image",
-    "코딩/Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
+    "코딩/공부할 것들 목록",
+    "코딩/Game Dev/Ideas/공포게임.md",
+    "코딩/Game Dev/Coding Tips/단계의 추상화.md",
+    "코딩/Game Dev/Coding Tips/람다식.md",
+    "코딩/기상 프로그램.md",
+    "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
+    "Image",
+    "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
     "코딩/Game Dev/Ideas",
     "무제 파일.md",
     "코딩/Game Dev/무제 파일.canvas",
-    "코딩/Game Dev/Tips",
+    "코딩/Game Dev/Coding Tips",
     "코딩/Game Dev",
     "코딩"
   ]
