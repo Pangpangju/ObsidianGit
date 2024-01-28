@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/Game Dev/VFX/Nodes/Context.md",
+                "file": "코딩/Game Dev/Ideas/멀티게임.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩/Game Dev/VFX/Nodes/Context.md",
+                "file": "코딩/Game Dev/Ideas/멀티게임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩/Game Dev/VFX/Nodes/Context.md",
+                "file": "코딩/Game Dev/Ideas/멀티게임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩/Game Dev/VFX/Nodes/Context.md"
+                "file": "코딩/Game Dev/Ideas/멀티게임.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "1bb48feed60bccb6",
   "lastOpenFiles": [
-    "코딩/Game Dev/VFX/Nodes/System.md",
     "코딩/Game Dev/VFX/Nodes/Context.md",
+    "코딩/Game Dev/Ideas/멀티게임.md",
+    "코딩/Game Dev/VFX/Nodes/System.md",
     "코딩/Game Dev/VFX/VFX Graph.md",
     "코딩/Game Dev/VFX/Nodes",
     "코딩/Game Dev/VFX",
