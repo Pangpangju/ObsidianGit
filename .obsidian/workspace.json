@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "984d11a1887dd621",
+        "id": "a9274ba3f86dd962",
         "type": "tabs",
         "children": [
           {
-            "id": "1bb48feed60bccb6",
+            "id": "327d53db1c34cfa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/코테/코테준비.md",
+                "file": "MarkDown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84e2aca4e65e9356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩/Game Dev/VFX/Nodes/Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#이벤트_시스템의_정의",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩/코테/코테준비.md",
+                "file": "MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩/코테/코테준비.md",
+                "file": "MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩/코테/코테준비.md"
+                "file": "MarkDown.md"
               }
             }
           },
@@ -154,14 +166,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1bb48feed60bccb6",
+  "active": "87a75b75800c69b0",
   "lastOpenFiles": [
-    "코딩/공부할 것들 목록/Index.md",
+    "코딩/코테/Python.md",
+    "MarkDown.md",
+    "무제 파일.canvas",
+    "2024-02-05.md",
     "코딩/코테/코테준비.md",
+    "코딩/코테/개념.md",
+    "코딩/Game Dev/Coding Tips/람다식.md",
+    "코딩/Game Dev/Coding Tips/단계의 추상화.md",
+    "코딩/Game Dev/VFX/Nodes/Context.md",
+    "코딩/공부할 것들 목록/Index.md",
     "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
     "코딩/Game Dev/VFX/VFX Graph.md",
     "코딩/Game Dev/VFX/Nodes/System.md",
-    "코딩/Game Dev/VFX/Nodes/Context.md",
     "코딩/Game Dev/Ideas/공포게임(미제).md",
     "코딩/Game Dev/Ideas/멀티게임.md",
     "코딩/Game Dev/UI Toolkit/UI Toolkit의 요소들.md",
@@ -169,7 +188,7 @@
     "코딩/Game Dev/Ideas/공포게임.md",
     "코딩/Game Dev/Tips/이벤트 시스템.md",
     "코딩/Game Dev/Ideas",
-    "무제 파일.md",
+    "MarkDown.md",
     "코딩/Game Dev/무제 파일.canvas",
     "코딩/Game Dev/Coding Tips",
     "코딩/Game Dev",
