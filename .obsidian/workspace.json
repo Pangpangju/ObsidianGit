@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "file": "코딩/코테/코테준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "file": "코딩/코테/코테준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩/Game Dev/Tips/이벤트 시스템.md",
+                "file": "코딩/코테/코테준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩/Game Dev/Tips/이벤트 시스템.md"
+                "file": "코딩/코테/코테준비.md"
               }
             }
           },
@@ -156,6 +156,15 @@
   },
   "active": "1bb48feed60bccb6",
   "lastOpenFiles": [
+    "코딩/공부할 것들 목록/Index.md",
+    "코딩/코테/코테준비.md",
+    "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
+    "코딩/Game Dev/VFX/VFX Graph.md",
+    "코딩/Game Dev/VFX/Nodes/System.md",
+    "코딩/Game Dev/VFX/Nodes/Context.md",
+    "코딩/Game Dev/Ideas/공포게임(미제).md",
+    "코딩/Game Dev/Ideas/멀티게임.md",
+    "코딩/Game Dev/UI Toolkit/UI Toolkit의 요소들.md",
     "README.md",
     "코딩/Game Dev/Ideas/공포게임.md",
     "코딩/Game Dev/Tips/이벤트 시스템.md",
