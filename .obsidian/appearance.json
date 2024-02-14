@@ -1,7 +1,9 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "textFontFamily": "Consolas",
-  "interfaceFontFamily": "Consolas",
-  "translucency": true
+  "textFontFamily": "G마켓 산스",
+  "interfaceFontFamily": "G마켓 산스",
+  "translucency": true,
+  "baseFontSize": 21,
+  "monospaceFontFamily": "Consolas"
 }

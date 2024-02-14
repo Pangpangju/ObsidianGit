@@ -1,3 +1,5 @@
 - [[VFX Graph]]
 - [[UI ToolKit]]
-- 
+- DirectX를 이용한 3D 게임 프로그래밍 입문
+	- [[Chapter. 1 기초 필수 수학]]
+	- 
