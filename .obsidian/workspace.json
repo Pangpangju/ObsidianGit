@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "327d53db1c34cfa5",
+            "id": "84e2aca4e65e9356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+                "file": "MarkDown.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "84e2aca4e65e9356",
+            "id": "536a5cad3021f4dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5
   },
   "right": {
     "id": "cdea32a5eb736b40",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md"
+                "file": "README.md"
               }
             }
           },
@@ -149,13 +149,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d1803f4d85471c97",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,30 +172,35 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84e2aca4e65e9356",
+  "active": "536a5cad3021f4dc",
   "lastOpenFiles": [
-    "Image/Pasted image 20240214185447.png",
-    "코딩/공부할 것들 목록/Index.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
-    "코딩/Game Dev/VFX/Nodes/Context.md",
     "MarkDown.md",
     "README.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문",
-    "코딩/코테/Python.md",
-    "코딩/코테/개념.md",
-    "코딩/코테/코테준비.md",
+    "Calander",
+    "2024-02-14.md",
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
     "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
+    "코딩/Game Dev/Coding Tips/람다식.md",
     "코딩/Game Dev/Coding Tips/단계의 추상화.md",
+    "코딩/Game Dev/UI Toolkit/UI ToolKit.md",
+    "코딩/Game Dev/UI Toolkit/UI Toolkit의 요소들.md",
+    "코딩/공부할 것들 목록/Index.md",
+    "코딩/코테/개념.md",
+    "코딩/코테/Python.md",
+    "코딩/코테/코테준비.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "Image/Pasted image 20240214185447.png",
+    "코딩/Game Dev/VFX/Nodes/Context.md",
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문",
     "코딩/Game Dev/VFX/Nodes/System.md",
     "코딩/Game Dev/Ideas/멀티게임.md",
-    "코딩/Game Dev/UI Toolkit/UI Toolkit의 요소들.md",
-    "코딩/Game Dev/Coding Tips/람다식.md",
     "코딩/Game Dev/VFX/VFX Graph.md",
     "코딩/Game Dev/Ideas/공포게임(미제).md",
-    "무제 파일.canvas",
     "2024-02-05.md",
     "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
     "코딩/Game Dev/Ideas/공포게임.md",
