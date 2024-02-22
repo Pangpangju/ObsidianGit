@@ -25,7 +25,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
+=======
+                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
+>>>>>>> c2fe718206eafc1fe7032d85d3a5ebc3b0d3b2a5
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
+=======
+                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
+>>>>>>> c2fe718206eafc1fe7032d85d3a5ebc3b0d3b2a5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
+=======
+                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
+>>>>>>> c2fe718206eafc1fe7032d85d3a5ebc3b0d3b2a5
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "코딩/Game Dev/Coding Tips/이벤트 시스템.md"
+=======
+                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md"
+>>>>>>> c2fe718206eafc1fe7032d85d3a5ebc3b0d3b2a5
               }
             }
           },
@@ -178,11 +194,16 @@
   },
   "active": "536a5cad3021f4dc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "코딩/Game Dev/Coding Tips/람다식.md",
     "코딩/Game Dev/Ideas/멀티게임.md",
     "코딩/Game Dev/Ideas/공포게임.md",
     "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
     "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+=======
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
+>>>>>>> c2fe718206eafc1fe7032d85d3a5ebc3b0d3b2a5
     "MarkDown.md",
     "README.md",
     "Calander",
