@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md"
               }
             }
           },
@@ -178,11 +178,12 @@
   },
   "active": "536a5cad3021f4dc",
   "lastOpenFiles": [
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
     "MarkDown.md",
     "README.md",
     "Calander",
     "2024-02-14.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
     "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
     "코딩/Game Dev/Coding Tips/람다식.md",
     "코딩/Game Dev/Coding Tips/단계의 추상화.md",
