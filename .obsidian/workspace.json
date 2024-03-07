@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+                "file": "대학/3학년1학기/미국사회와법/1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+                "file": "대학/3학년1학기/미국사회와법/1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+                "file": "대학/3학년1학기/미국사회와법/1주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md"
+                "file": "대학/3학년1학기/미국사회와법/1주차.md"
               }
             }
           },
@@ -179,36 +179,37 @@
   },
   "active": "536a5cad3021f4dc",
   "lastOpenFiles": [
-    "대학/3학년1학기/컴퓨터구조/1주차.md",
+    "MarkDown.md",
     "대학/3학년1학기/미국사회와법/1주차.md",
+    "Pasted image 20240307154445.png",
+    "대학/3학년1학기/컴퓨터구조/1주차.md",
+    "무제 파일.canvas",
+    "코딩/Game Dev/Coding Tips/단계의 추상화.md",
+    "코딩/Game Dev/Coding Tips/람다식.md",
+    "코딩/Game Dev/VFX/Nodes/Context.md",
+    "코딩/Game Dev/VFX/Nodes/System.md",
+    "코딩/Game Dev/VFX/VFX Graph.md",
+    "코딩/Game Dev/UI Toolkit/UI ToolKit.md",
+    "코딩/Game Dev/Ideas/멀티게임.md",
+    "코딩/Game Dev/Ideas/공포게임.md",
+    "코딩/Game Dev/UI Toolkit/UI Toolkit의 요소들.md",
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
     "대학/3학년1학기/컴퓨터구조",
     "대학/3학년1학기/미국사회와법",
     "대학/3학년1학기",
     "대학",
-    "코딩/Game Dev/Ideas/공포게임.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
     "코딩/코테/코테준비.md",
-    "코딩/Game Dev/Coding Tips/람다식.md",
     "README.md",
-    "MarkDown.md",
     "Calander",
     "2024-02-14.md",
     "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
-    "코딩/Game Dev/Coding Tips/단계의 추상화.md",
-    "코딩/Game Dev/UI Toolkit/UI ToolKit.md",
-    "코딩/Game Dev/UI Toolkit/UI Toolkit의 요소들.md",
     "코딩/공부할 것들 목록/Index.md",
     "코딩/코테/개념.md",
     "코딩/코테/Python.md",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
     "Image/Pasted image 20240214185447.png",
-    "코딩/Game Dev/VFX/Nodes/Context.md",
     "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문",
-    "코딩/Game Dev/VFX/Nodes/System.md",
-    "코딩/Game Dev/Ideas/멀티게임.md",
-    "코딩/Game Dev/VFX/VFX Graph.md",
     "코딩/Game Dev/Ideas/공포게임(미제).md",
     "2024-02-05.md",
     "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
