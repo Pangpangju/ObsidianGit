@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarkDown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "536a5cad3021f4dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학/3학년1학기/미국사회와법/1주차.md",
+                "file": "대학/3학년1학기/미디어와윤리/1주차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/1주차.md",
+                "file": "대학/3학년1학기/미디어와윤리/1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/1주차.md",
+                "file": "대학/3학년1학기/미디어와윤리/1주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/1주차.md"
+                "file": "대학/3학년1학기/미디어와윤리/1주차.md"
               }
             }
           },
@@ -159,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,13 +164,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "536a5cad3021f4dc",
+  "active": "84e2aca4e65e9356",
   "lastOpenFiles": [
+    "대학/3학년1학기/컴퓨터구조/1주차.md",
+    "대학/3학년1학기/미디어와윤리/1주차.md",
+    "무제 파일.canvas",
     "MarkDown.md",
     "대학/3학년1학기/미국사회와법/1주차.md",
+    "대학/3학년1학기/미디어와윤리",
+    "대학/3학년1학기/게임프로그래밍/1주차.md",
+    "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
+    "대학/3학년1학기/게임프로그래밍",
+    "대학/3학년1학기/교육용소프트웨어개발",
     "Pasted image 20240307154445.png",
-    "대학/3학년1학기/컴퓨터구조/1주차.md",
-    "무제 파일.canvas",
     "코딩/Game Dev/Coding Tips/단계의 추상화.md",
     "코딩/Game Dev/Coding Tips/람다식.md",
     "코딩/Game Dev/VFX/Nodes/Context.md",
@@ -211,13 +204,8 @@
     "Image/Pasted image 20240214185447.png",
     "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문",
     "코딩/Game Dev/Ideas/공포게임(미제).md",
-    "2024-02-05.md",
     "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
-    "코딩/Game Dev/Tips/이벤트 시스템.md",
     "코딩/Game Dev/Ideas",
-    "코딩/Game Dev/무제 파일.canvas",
-    "코딩/Game Dev/Coding Tips",
-    "코딩/Game Dev",
-    "코딩"
+    "코딩/Game Dev/무제 파일.canvas"
   ]
 }
