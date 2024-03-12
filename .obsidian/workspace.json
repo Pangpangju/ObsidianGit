@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "bb141f5c7155044b",
+    "id": "96d90e11a46e06a8",
     "type": "split",
     "children": [
       {
-        "id": "a9274ba3f86dd962",
+        "id": "c003368b993a9961",
         "type": "tabs",
         "children": [
           {
-            "id": "84e2aca4e65e9356",
+            "id": "0abb2bf6ac09a714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/1주차.md",
+                "file": "대학/3학년1학기/컴퓨터구조/2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "565010aebd6aa235",
+    "id": "a460cf42c339828f",
     "type": "split",
     "children": [
       {
-        "id": "75792c88cb25e9b1",
+        "id": "96a26e09e4cf4d12",
         "type": "tabs",
         "children": [
           {
-            "id": "87a75b75800c69b0",
+            "id": "520b6dc3665e6b24",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "9efddea85388ae4a",
+            "id": "f87bb251dc5e3b11",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2c51493cb5521f1d",
+            "id": "65972de3960c8da2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
-    "id": "cdea32a5eb736b40",
+    "id": "ce292c5ad1fb639c",
     "type": "split",
     "children": [
       {
-        "id": "12267aae0703e1ae",
+        "id": "2acfa00e29bfce1f",
         "type": "tabs",
         "children": [
           {
-            "id": "a204fb46f412f36c",
+            "id": "55a90051dc9962de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "741d924643ca2c4e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/1주차.md",
+                "file": "대학/3학년1학기/컴퓨터구조/2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "07eb07ab6ec03b0b",
+            "id": "aa13a066b0b884c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/1주차.md",
+                "file": "대학/3학년1학기/컴퓨터구조/2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "944e5166aeb52ee9",
+            "id": "3b8b5d2d81470ad6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,92 +128,55 @@
             }
           },
           {
-            "id": "f5579d35fda54c7d",
+            "id": "e2be015fff0b6753",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/1주차.md"
+                "file": "대학/3학년1학기/컴퓨터구조/2주차.md"
               }
             }
-          },
-          {
-            "id": "661383b43c3dd581",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "d1803f4d85471c97",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "84e2aca4e65e9356",
+  "active": "0abb2bf6ac09a714",
   "lastOpenFiles": [
     "대학/3학년1학기/컴퓨터구조/1주차.md",
-    "대학/3학년1학기/미디어와윤리/1주차.md",
-    "무제 파일.canvas",
     "MarkDown.md",
-    "대학/3학년1학기/미국사회와법/1주차.md",
-    "대학/3학년1학기/미디어와윤리",
-    "대학/3학년1학기/게임프로그래밍/1주차.md",
-    "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
-    "대학/3학년1학기/게임프로그래밍",
-    "대학/3학년1학기/교육용소프트웨어개발",
-    "Pasted image 20240307154445.png",
-    "코딩/Game Dev/Coding Tips/단계의 추상화.md",
-    "코딩/Game Dev/Coding Tips/람다식.md",
-    "코딩/Game Dev/VFX/Nodes/Context.md",
     "코딩/Game Dev/VFX/Nodes/System.md",
-    "코딩/Game Dev/VFX/VFX Graph.md",
-    "코딩/Game Dev/UI Toolkit/UI ToolKit.md",
-    "코딩/Game Dev/Ideas/멀티게임.md",
-    "코딩/Game Dev/Ideas/공포게임.md",
-    "코딩/Game Dev/UI Toolkit/UI Toolkit의 요소들.md",
+    "코딩/Game Dev/VFX/Nodes/Context.md",
+    "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
+    "코딩/Game Dev/Coding Tips/람다식.md",
+    "코딩/Game Dev/Coding Tips/단계의 추상화.md",
     "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
     "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
-    "대학/3학년1학기/컴퓨터구조",
-    "대학/3학년1학기/미국사회와법",
-    "대학/3학년1학기",
-    "대학",
-    "코딩/코테/코테준비.md",
-    "README.md",
-    "Calander",
-    "2024-02-14.md",
-    "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
+    "대학/3학년1학기/컴퓨터구조/2주차.md",
+    "대학/3학년1학기/미국사회와법/2주차.md",
+    "대학/3학년1학기/미국사회와법/1주차.md",
+    "대학/3학년1학기/미디어와윤리/1주차.md",
+    "대학/3학년1학기/미디어와윤리",
+    "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
+    "대학/3학년1학기/교육용소프트웨어개발",
+    "대학/3학년1학기/게임프로그래밍/1주차.md",
+    "대학/3학년1학기/게임프로그래밍",
     "코딩/공부할 것들 목록/Index.md",
     "코딩/코테/개념.md",
-    "코딩/코테/Python.md",
-    "무제 파일 1.canvas",
-    "Image/Pasted image 20240214185447.png",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문",
-    "코딩/Game Dev/Ideas/공포게임(미제).md",
-    "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
-    "코딩/Game Dev/Ideas",
-    "코딩/Game Dev/무제 파일.canvas"
+    "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png"
   ]
 }
