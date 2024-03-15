@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "8bcf9fdca01e90be",
+    "id": "96d90e11a46e06a8",
     "type": "split",
     "children": [
       {
-        "id": "35d4dff2f983f3dc",
+        "id": "c003368b993a9961",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7a55128609c9a8",
+            "id": "0abb2bf6ac09a714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/2주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b2bec0ec9eaa5166",
+    "id": "a460cf42c339828f",
     "type": "split",
     "children": [
       {
-        "id": "87555107cc1ff68a",
+        "id": "96a26e09e4cf4d12",
         "type": "tabs",
         "children": [
           {
-            "id": "852e190f5097d24c",
+            "id": "520b6dc3665e6b24",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "1bc598024c76c6e8",
+            "id": "f87bb251dc5e3b11",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "dda519ac1bb27371",
+            "id": "65972de3960c8da2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
-    "id": "0182da5f7757cb3f",
+    "id": "ce292c5ad1fb639c",
     "type": "split",
     "children": [
       {
-        "id": "8ec564147fef0355",
+        "id": "2acfa00e29bfce1f",
         "type": "tabs",
         "children": [
           {
-            "id": "0dbda2a963822240",
+            "id": "55a90051dc9962de",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -88,12 +88,12 @@
             }
           },
           {
-            "id": "c4d83b4b2c70fdc8",
+            "id": "741d924643ca2c4e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/2주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +105,19 @@
             }
           },
           {
-            "id": "0c0f6b8d55451356",
+            "id": "aa13a066b0b884c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/2주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cf14278ee8e886d3",
+            "id": "3b8b5d2d81470ad6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +128,12 @@
             }
           },
           {
-            "id": "a918cb07b72f56d3",
+            "id": "e2be015fff0b6753",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/2주차.md"
+                "file": "대학/3학년1학기/교육용소프트웨어개발/1주차.md"
               }
             }
           }
@@ -155,19 +155,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1a7a55128609c9a8",
+  "active": "520b6dc3665e6b24",
   "lastOpenFiles": [
-    "대학/3학년1학기/미디어와윤리/1주차.md",
-    "대학/3학년1학기/미디어와윤리/2주차.md",
     "대학/3학년1학기/교육용소프트웨어개발/2주차.md",
-    "README.md",
     "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
-    "코딩/공부할 것들 목록/Index.md",
-    "대학/3학년1학기/컴퓨터구조/2주차.md",
+    "대학/3학년1학기/게임프로그래밍/1주차.md",
     "대학/3학년1학기/미국사회와법/2주차.md",
     "대학/3학년1학기/미국사회와법/1주차.md",
     "대학/3학년1학기/인공지능과교육/2주차.md",
     "대학/3학년1학기/인공지능과교육",
-    "대학/3학년1학기/컴퓨터구조/1주차.md"
+    "대학/3학년1학기/미디어와윤리/2주차.md",
+    "대학/3학년1학기/교육용소프트웨어개발/0_교육용소프트웨어개발_Index.md",
+    "대학/3학년1학기/게임프로그래밍/0_Index.md",
+    "대학/3학년1학기/컴퓨터구조/2주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/2주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제",
+    "대학/3학년1학기/컴퓨터구조/1주차.md",
+    "MarkDown.md",
+    "코딩/Game Dev/VFX/Nodes/System.md",
+    "코딩/Game Dev/VFX/Nodes/Context.md",
+    "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
+    "코딩/Game Dev/Coding Tips/람다식.md",
+    "코딩/Game Dev/Coding Tips/단계의 추상화.md",
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
+    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
+    "대학/3학년1학기/미디어와윤리/1주차.md",
+    "대학/3학년1학기/미디어와윤리",
+    "대학/3학년1학기/교육용소프트웨어개발",
+    "대학/3학년1학기/게임프로그래밍",
+    "코딩/공부할 것들 목록/Index.md",
+    "코딩/코테/개념.md",
+    "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png"
   ]
 }
