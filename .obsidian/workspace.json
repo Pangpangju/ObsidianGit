@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/2주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/2주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/2주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/2주차.md"
+                "file": "대학/3학년1학기/교육용소프트웨어개발/2주차.md"
               }
             }
           }
@@ -157,6 +157,15 @@
   },
   "active": "1a7a55128609c9a8",
   "lastOpenFiles": [
+    "README.md",
+    "대학/3학년1학기/교육용소프트웨어개발/2주차.md",
+    "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
+    "코딩/공부할 것들 목록/Index.md",
+    "대학/3학년1학기/컴퓨터구조/2주차.md",
+    "대학/3학년1학기/미국사회와법/2주차.md",
+    "대학/3학년1학기/미국사회와법/1주차.md",
+    "대학/3학년1학기/인공지능과교육/2주차.md",
+    "대학/3학년1학기/인공지능과교육",
     "대학/3학년1학기/컴퓨터구조/1주차.md"
   ]
 }
