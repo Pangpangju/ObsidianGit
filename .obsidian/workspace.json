@@ -11,8 +11,12 @@
             "id": "0abb2bf6ac09a714",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "대학/3학년1학기/미국사회와법/3주차.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "대학/3학년1학기/미국사회와법/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "대학/3학년1학기/미국사회와법/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "대학/3학년1학기/미국사회와법/3주차.md"
+              }
             }
           }
         ]
@@ -149,6 +157,10 @@
   },
   "active": "0abb2bf6ac09a714",
   "lastOpenFiles": [
+    "MarkDown.md",
+    "대학/3학년1학기/미국사회와법/3주차.md",
+    "대학/3학년1학기/미국사회와법/1주차.md",
+    "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
     "대학/3학년1학기/3학년 1학기 Index.md",
     "무제 파일 1.canvas",
     "대학/3학년1학기/컴퓨터구조/과제/2주차.md",
@@ -159,21 +171,18 @@
     "대학/3학년1학기/게임프로그래밍/1주차.md",
     "대학/3학년1학기/게임프로그래밍/0_게임프로그래밍.md",
     "대학/3학년1학기/교육용소프트웨어개발/0_교육용소프트웨어개발.md",
-    "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
     "대학/3학년1학기/미디어와윤리/0_미디어와윤리.md",
     "대학/3학년1학기/인공지능과교육/0_인공지능과교육.md",
     "대학/3학년1학기/컴퓨터구조/0_컴퓨터구조.md",
     "대학/3학년1학기/컴퓨터구조/1주차.md",
     "대학/3학년1학기/미국사회와법/2주차.md",
     "대학/3학년1학기/교육용소프트웨어개발/2주차.md",
-    "대학/3학년1학기/미국사회와법/1주차.md",
     "대학/3학년1학기/인공지능과교육/2주차.md",
     "대학/3학년1학기/인공지능과교육",
     "대학/3학년1학기/미디어와윤리/2주차.md",
     "대학/3학년1학기/교육용소프트웨어개발/0_교육용소프트웨어개발_Index.md",
     "대학/3학년1학기/게임프로그래밍/0_Index.md",
     "대학/3학년1학기/컴퓨터구조/과제",
-    "MarkDown.md",
     "코딩/Game Dev/VFX/Nodes/System.md",
     "코딩/Game Dev/VFX/Nodes/Context.md",
     "코딩/Game Dev/Coding Tips/이벤트 시스템.md",
