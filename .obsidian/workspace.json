@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f9ca5efaa1b40a06",
+    "id": "0edc9e110cba1ecb",
     "type": "split",
     "children": [
       {
-        "id": "492f5a0887850f55",
+        "id": "5ec7fce297b4c315",
         "type": "tabs",
         "children": [
           {
-            "id": "52f1fea6040903b4",
+            "id": "0a7e1cfd766ae9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,22 +18,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8abc351bbcab828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "996d826b5419ecf0",
+    "id": "7c52e17befcdad02",
     "type": "split",
     "children": [
       {
-        "id": "285302cbc383a467",
+        "id": "e5e6b25c052c2223",
         "type": "tabs",
         "children": [
           {
-            "id": "569ed562f662d23c",
+            "id": "a04ea8e73cbe2cf8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "8f83f65e778c75fc",
+            "id": "a858e7f8adc187e1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "4d69a3aa71acdb8a",
+            "id": "be4176bc4935bd3e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,19 +82,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "5901fb73765d1bbd",
+    "id": "6e09e3c0290dccda",
     "type": "split",
     "children": [
       {
-        "id": "0eb9d6df5f8b5609",
+        "id": "6f0c366980be438f",
         "type": "tabs",
         "children": [
           {
-            "id": "d658db4d3bfe557a",
+            "id": "4cdf471ddacf316e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -89,12 +101,12 @@
             }
           },
           {
-            "id": "b216c139579d7846",
+            "id": "a71a412a91e91abd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/3주차.md",
+                "file": "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +118,19 @@
             }
           },
           {
-            "id": "f03378134fd3ba56",
+            "id": "245d522b222c3d63",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/3주차.md",
+                "file": "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a2ecf1e689580b65",
+            "id": "ecc05eaca97b9315",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +141,12 @@
             }
           },
           {
-            "id": "fdec535739c89386",
+            "id": "512c65f70271c2e4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/3주차.md"
+                "file": "대학/3학년1학기/컴퓨터구조/과제/3주차.md"
               }
             }
           }
@@ -156,27 +168,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52f1fea6040903b4",
+  "active": "b8abc351bbcab828",
   "lastOpenFiles": [
+    "대학/3학년1학기/컴퓨터구조/과제/2주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
+    "대학/3학년1학기/컴퓨터구조/Little Endian.md",
+    "대학/3학년1학기/컴퓨터구조/3주차.md",
+    "대학/3학년1학기/인공지능과교육/3주차.md",
+    "대학/3학년1학기/미국사회와법/Double Jeopardy.md",
+    "대학/3학년1학기/컴퓨터구조/2주차.md",
     "MarkDown.md",
     "대학/3학년1학기/미국사회와법/3주차.md",
-    "대학/3학년1학기/미국사회와법/Double Jeopardy.md",
-    "대학/3학년1학기/교육용소프트웨어개발/2주차.md",
-    "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
-    "대학/3학년1학기/미국사회와법/1주차.md",
-    "대학/3학년1학기/미국사회와법/2주차.md",
-    "대학/3학년1학기/인공지능과교육/3주차.md",
-    "대학/3학년1학기/인공지능과교육/2주차.md",
-    "대학/3학년1학기/인공지능과교육/0_인공지능과교육.md",
-    "대학/3학년1학기/컴퓨터구조/3주차.md",
-    "대학/3학년1학기/미디어와윤리/0_미디어와윤리.md",
-    "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
-    "대학/3학년1학기/컴퓨터구조/Little Endian.md",
-    "무제 파일.canvas",
-    "무제 파일 1.canvas",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
-    "대학/3학년1학기/컴퓨터구조/0_컴퓨터구조.md",
-    "대학/3학년1학기/컴퓨터구조/2주차.md",
-    "대학/3학년1학기/컴퓨터구조/1주차.md"
+    "대학/3학년1학기/미국사회와법/2주차.md"
   ]
 }
