@@ -20,6 +20,19 @@
 
 ### 6. 인용블록
 > "제발 니네 인생에 훈수하세요"
+> - [!note]
+- [!abstract], [!summary], [!tldr]
+- [!info]
+- [!todo]
+- [!tip], [!hint], [!important]
+- [!success], [!check], [!done]
+- [!question], [!help], [!faq]
+- [!warning], [!caution], [!attention]
+- [!failure], [!fail], [!missing]
+- [!danger], [!error]
+- [!bug]
+- [!example]
+- [!quote], [!cite]
 
 ### 7. 코드블록
 ```Python
