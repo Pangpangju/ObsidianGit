@@ -1,13 +1,1 @@
-{
-  "spellcheck": false,
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-<<<<<<< HEAD
-    "downscalePercent": 81
-=======
-    "downscalePercent": 100
->>>>>>> ac61fe3a0e8b75ff868180243bfb130f78cb4496
-  }
-}
+{}
