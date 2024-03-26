@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/3주차.md",
+                "file": "대학/3학년1학기/미국사회와법/3주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/3주차.md",
+                "file": "대학/3학년1학기/미국사회와법/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/3주차.md",
+                "file": "대학/3학년1학기/미국사회와법/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/3주차.md"
+                "file": "대학/3학년1학기/미국사회와법/3주차.md"
               }
             }
           },
@@ -178,9 +178,10 @@
   },
   "active": "0ebd65d6ed3a1886",
   "lastOpenFiles": [
+    "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
+    "대학/3학년1학기/미디어와윤리/3주차.md",
     "대학/3학년1학기/미디어와윤리/1주차.md",
     "대학/3학년1학기/미디어와윤리/2주차.md",
-    "대학/3학년1학기/미디어와윤리/3주차.md",
     "대학/3학년1학기/컴퓨터구조/과제/2주차.md",
     "대학/3학년1학기/3학년 1학기 Index.md",
     "대학/3학년1학기/미디어와윤리/0_미디어와윤리.md",
@@ -204,7 +205,6 @@
     "대학/3학년1학기/컴퓨터구조/3주차.md",
     "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
     "대학/3학년1학기/컴퓨터구조/Little Endian.md",
-    "무제 파일 1.canvas",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md"
+    "무제 파일 1.canvas"
   ]
 }
