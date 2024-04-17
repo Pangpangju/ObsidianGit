@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/6주차.md",
+                "file": "대학/3학년1학기/미국사회와법/6주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,34 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
                 "file": "MarkDown.md",
-=======
-                "file": "대학/3학년1학기/미국사회와법/5주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aec04b36f9a787ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/과제/6주차.md",
->>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
-<<<<<<< Updated upstream
         ]
-=======
-        ],
-        "currentTab": 2
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -126,11 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/6주차.md",
-=======
-                "file": "대학/3학년1학기/컴퓨터구조/과제/6주차.md",
->>>>>>> Stashed changes
+                "file": "대학/3학년1학기/미국사회와법/6주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,11 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/6주차.md",
-=======
-                "file": "대학/3학년1학기/컴퓨터구조/과제/6주차.md",
->>>>>>> Stashed changes
+                "file": "대학/3학년1학기/미국사회와법/6주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/6주차.md"
-=======
-                "file": "대학/3학년1학기/컴퓨터구조/과제/6주차.md"
->>>>>>> Stashed changes
+                "file": "대학/3학년1학기/미국사회와법/6주차.md"
               }
             }
           },
@@ -209,12 +176,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-<<<<<<< Updated upstream
   "active": "0ebd65d6ed3a1886",
   "lastOpenFiles": [
+    "대학/3학년1학기/미국사회와법/7주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/6주차.md",
     "대학/3학년1학기/미국사회와법/6주차.md",
-    "대학/3학년1학기/미디어와윤리/6주차.md",
     "MarkDown.md",
+    "대학/3학년1학기/미디어와윤리/6주차.md",
     "대학/3학년1학기/미디어와윤리/0_미디어와윤리.md",
     "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
     "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
@@ -229,49 +197,14 @@
     "대학/3학년1학기/3학년 1학기 Index.md",
     "대학/3학년1학기/컴퓨터구조/과제/5주차.md",
     "대학/3학년1학기/컴퓨터구조/과제/4주차.md",
-=======
-  "active": "aec04b36f9a787ca",
-  "lastOpenFiles": [
-    "대학/3학년1학기/3학년 1학기 Index.md",
-    "대학/3학년1학기/컴퓨터구조/Little Endian.md",
-    "대학/3학년1학기/컴퓨터구조/5주차.md",
-    "대학/3학년1학기/미국사회와법/1주차.md",
-    "대학/3학년1학기/미국사회와법/Double Jeopardy.md",
-    "대학/3학년1학기/미국사회와법/5주차.md",
-    "대학/3학년1학기/컴퓨터구조/2주차.md",
-    "대학/3학년1학기/컴퓨터구조/1주차.md",
-    "대학/3학년1학기/컴퓨터구조/3주차.md",
->>>>>>> Stashed changes
     "대학/3학년1학기/컴퓨터구조/과제/2주차.md",
     "대학/3학년1학기/컴퓨터구조/4주차.md",
     "대학/3학년1학기/컴퓨터구조/3주차.md",
     "대학/3학년1학기/미디어와윤리/2주차.md",
     "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
-<<<<<<< Updated upstream
     "EGG 상반기 계획.md",
     "대학/3학년1학기/미국사회와법/4주차.md",
-    "대학/3학년1학기/미국사회와법/3주차.md",
-    "대학/3학년1학기/미국사회와법/1주차.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
-=======
-    "대학/3학년1학기/컴퓨터구조/과제/4주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/6주차.md",
-    "대학/3학년1학기/미국사회와법/4주차.md",
-    "EGG 상반기 계획.md",
-    "대학/3학년1학기/컴퓨터구조/4주차.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
-    "대학/3학년1학기/컴퓨터구조/0_컴퓨터구조.md",
-    "MarkDown.md",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "대학/3학년1학기/미국사회와법/3주차.md",
-    "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
-    "대학/3학년1학기/미국사회와법/2주차.md",
-    "대학/3학년1학기/미디어와윤리/3주차.md",
-    "대학/3학년1학기/미디어와윤리/1주차.md",
-    "대학/3학년1학기/미디어와윤리/2주차.md"
->>>>>>> Stashed changes
   ]
 }
