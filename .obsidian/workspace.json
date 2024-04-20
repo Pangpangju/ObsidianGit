@@ -1,18 +1,19 @@
 {
   "main": {
-    "id": "f9ca5efaa1b40a06",
+    "id": "9a3a3af20b842a50",
     "type": "split",
     "children": [
       {
-        "id": "289c5055520e3d5c",
+        "id": "6ea533c7d2a446fe",
         "type": "tabs",
         "children": [
           {
-            "id": "0ebd65d6ed3a1886",
+            "id": "18f60a49ea94fa91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "대학/3학년1학기/컴퓨터구조/중간고사.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +27,9 @@
               "type": "markdown",
               "state": {
                 "file": "MarkDown.md",
+=======
+                "file": "대학/3학년1학기/컴퓨터구조/6주차.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "996d826b5419ecf0",
+    "id": "29516ed7d92380f2",
     "type": "split",
     "children": [
       {
-        "id": "285302cbc383a467",
+        "id": "4b7eefee1cbffa23",
         "type": "tabs",
         "children": [
           {
-            "id": "569ed562f662d23c",
+            "id": "7cad1ba40d56dc95",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +59,7 @@
             }
           },
           {
-            "id": "8f83f65e778c75fc",
+            "id": "e7de26e4012dcab1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +74,7 @@
             }
           },
           {
-            "id": "4d69a3aa71acdb8a",
+            "id": "c98b334792a09641",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,18 +85,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5901fb73765d1bbd",
+    "id": "88e4120c831df689",
     "type": "split",
     "children": [
       {
-        "id": "0eb9d6df5f8b5609",
+        "id": "3d6bfb842b20ac07",
         "type": "tabs",
         "children": [
           {
-            "id": "d658db4d3bfe557a",
+            "id": "a2a81f3040d31c38",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -100,12 +104,16 @@
             }
           },
           {
-            "id": "b216c139579d7846",
+            "id": "d4603ae76c33124f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "대학/3학년1학기/컴퓨터구조/중간고사.md",
+=======
+                "file": "대학/3학년1학기/컴퓨터구조/6주차.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +125,23 @@
             }
           },
           {
-            "id": "f03378134fd3ba56",
+            "id": "50b88010e9e3611b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "대학/3학년1학기/컴퓨터구조/중간고사.md",
+=======
+                "file": "대학/3학년1학기/컴퓨터구조/6주차.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a2ecf1e689580b65",
+            "id": "ee3ffce9b5866a6f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,29 +152,24 @@
             }
           },
           {
-            "id": "fdec535739c89386",
+            "id": "316c557aa05a83f9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "대학/3학년1학기/컴퓨터구조/중간고사.md"
+=======
+                "file": "대학/3학년1학기/컴퓨터구조/6주차.md"
+>>>>>>> Stashed changes
               }
             }
-          },
-          {
-            "id": "91f5ac88ccbf39a6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,6 +183,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+<<<<<<< Updated upstream
   "active": "0ebd65d6ed3a1886",
   "lastOpenFiles": [
     "대학/3학년1학기/컴퓨터구조/2주차.md",
@@ -206,5 +214,13 @@
     "대학/3학년1학기/3학년 1학기 Index.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
+=======
+  "active": "18f60a49ea94fa91",
+  "lastOpenFiles": [
+    "대학/3학년1학기/컴퓨터구조/Little Endian.md",
+    "대학/3학년1학기/미디어와윤리/0_미디어와윤리.md",
+    "대학/3학년1학기/컴퓨터구조/6주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/6주차.md"
+>>>>>>> Stashed changes
   ]
 }
