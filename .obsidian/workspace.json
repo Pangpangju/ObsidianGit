@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f9ca5efaa1b40a06",
+    "id": "9f340d86ee8afcfa",
     "type": "split",
     "children": [
       {
-        "id": "965fbf8af9e5036a",
+        "id": "4b9aa4176ce2bbe2",
         "type": "tabs",
         "children": [
           {
-            "id": "d002e2c62f9b3b40",
+            "id": "28332ffc9e03884b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "996d826b5419ecf0",
+    "id": "d5a580f02dd8f965",
     "type": "split",
     "children": [
       {
-        "id": "285302cbc383a467",
+        "id": "c060885ace4cabf4",
         "type": "tabs",
         "children": [
           {
-            "id": "569ed562f662d23c",
+            "id": "6a4ed90e162a86f3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "8f83f65e778c75fc",
+            "id": "840ed3d841ae4e2d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "4d69a3aa71acdb8a",
+            "id": "bcb4e4288f295180",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5901fb73765d1bbd",
+    "id": "441a3d7dde732d27",
     "type": "split",
     "children": [
       {
-        "id": "0eb9d6df5f8b5609",
+        "id": "c8d53b08e5781d83",
         "type": "tabs",
         "children": [
           {
-            "id": "d658db4d3bfe557a",
+            "id": "bdf1ab9c2644ecd4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "b216c139579d7846",
+            "id": "2e7e3e26b621a0e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -105,7 +105,7 @@
             }
           },
           {
-            "id": "f03378134fd3ba56",
+            "id": "bee75b4d0e31c937",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -117,7 +117,7 @@
             }
           },
           {
-            "id": "a2ecf1e689580b65",
+            "id": "b365b67dc71af3c5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +128,7 @@
             }
           },
           {
-            "id": "fdec535739c89386",
+            "id": "1aed5064ab7ad5f0",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,21 +136,12 @@
                 "file": "대학/3학년1학기/미디어와윤리/중간고사.md"
               }
             }
-          },
-          {
-            "id": "91f5ac88ccbf39a6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,35 +155,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d002e2c62f9b3b40",
+  "active": "28332ffc9e03884b",
   "lastOpenFiles": [
-    "대학/3학년1학기/미디어와윤리/5주차.md",
     "대학/3학년1학기/미디어와윤리/3주차.md",
-    "대학/3학년1학기/미디어와윤리/2주차.md",
-    "대학/3학년1학기/미디어와윤리/중간고사.md",
-    "대학/3학년1학기/컴퓨터구조/7주차.md",
-    "대학/3학년1학기/컴퓨터구조/중간고사.md",
-    "대학/3학년1학기/컴퓨터구조/2주차.md",
-    "대학/3학년1학기/컴퓨터구조/1주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/2주차.md",
-    "대학/3학년1학기/컴퓨터구조/3주차.md",
-    "대학/3학년1학기/컴퓨터구조/5주차.md",
-    "대학/3학년1학기/컴퓨터구조/4주차.md",
-    "대학/3학년1학기/컴퓨터구조/6주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/5주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
-    "대학/3학년1학기/컴퓨터구조/Little Endian.md",
-    "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
     "대학/3학년1학기/인공지능과교육/중간.md",
+    "대학/3학년1학기/미디어와윤리/중간고사.md",
     "대학/3학년1학기/미디어와윤리/7주차.md",
-    "대학/3학년1학기/미디어와윤리/6주차.md",
-    "대학/3학년1학기/미디어와윤리/0_미디어와윤리.md",
-    "대학/3학년1학기/미디어와윤리/1주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/7주차.md",
-    "대학/3학년1학기/교육용소프트웨어개발/0_교육용소프트웨어개발.md",
-    "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
-    "대학/3학년1학기/미국사회와법/5주차.md",
-    "무제 파일.canvas",
-    "무제 파일 1.canvas"
+    "대학/3학년1학기/컴퓨터구조/중간고사.md",
+    "대학/3학년1학기/미디어와윤리/0_미디어와윤리.md"
   ]
 }
