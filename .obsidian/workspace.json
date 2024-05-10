@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "9f340d86ee8afcfa",
+    "id": "6ea9dd497d080bba",
     "type": "split",
     "children": [
       {
-        "id": "b11e4b14e2067285",
+        "id": "aff2ca169c4a180a",
         "type": "tabs",
         "children": [
           {
-            "id": "b3df3a695e209b19",
+            "id": "3361c88ff489b556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/과제/9주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d5a580f02dd8f965",
+    "id": "4f1384c98decda30",
     "type": "split",
     "children": [
       {
-        "id": "c060885ace4cabf4",
+        "id": "48982707fd5f2099",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4ed90e162a86f3",
+            "id": "52965d4fd9ee0b2a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "840ed3d841ae4e2d",
+            "id": "1a59e7b703062b12",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "bcb4e4288f295180",
+            "id": "0608a097f3f51f8a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "441a3d7dde732d27",
+    "id": "964dd1d74fdb72bf",
     "type": "split",
     "children": [
       {
-        "id": "c8d53b08e5781d83",
+        "id": "106f1318c5512763",
         "type": "tabs",
         "children": [
           {
-            "id": "bdf1ab9c2644ecd4",
+            "id": "4318df19d6c60907",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -88,12 +88,12 @@
             }
           },
           {
-            "id": "2e7e3e26b621a0e4",
+            "id": "3ecb7c35f1724686",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/과제/9주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +105,19 @@
             }
           },
           {
-            "id": "bee75b4d0e31c937",
+            "id": "f01ede85f8cbc851",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/과제/9주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b365b67dc71af3c5",
+            "id": "940deeadf8f495b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +128,12 @@
             }
           },
           {
-            "id": "1aed5064ab7ad5f0",
+            "id": "7fb4b64d9356ecb6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/과제/9주차.md"
+                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md"
               }
             }
           }
@@ -155,23 +155,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b3df3a695e209b19",
+  "active": "3361c88ff489b556",
   "lastOpenFiles": [
-    "대학/3학년1학기/미국사회와법/중간고사.md",
+    "대학/3학년1학기/컴퓨터구조/과제/10주차.md",
+    "대학/3학년1학기/컴퓨터구조/10주차.md",
     "대학/3학년1학기/컴퓨터구조/과제/9주차.md",
-    "대학/3학년1학기/미국사회와법/4주차.md",
-    "무제 파일.canvas",
-    "대학/3학년1학기/미국사회와법/5주차.md",
-    "대학/3학년1학기/미국사회와법/6주차.md",
-    "대학/3학년1학기/미국사회와법/3주차.md",
-    "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
-    "Image/Pasted image 20240214185447.png",
-    "대학/3학년1학기/미국사회와법/7주차.md",
-    "대학/3학년1학기/미디어와윤리/중간고사.md",
-    "대학/3학년1학기/미디어와윤리/3주차.md",
-    "대학/3학년1학기/인공지능과교육/중간.md",
-    "대학/3학년1학기/미디어와윤리/7주차.md",
     "대학/3학년1학기/컴퓨터구조/중간고사.md",
-    "대학/3학년1학기/미디어와윤리/0_미디어와윤리.md"
+    "대학/3학년1학기/컴퓨터구조/7주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/7주차.md",
+    "대학/3학년1학기/미국사회와법/중간고사.md",
+    "대학/3학년1학기/컴퓨터구조/9주차.md",
+    "대학/3학년1학기/미국사회와법/9주차.md",
+    "대학/3학년1학기/미국사회와법/7주차.md",
+    "대학/3학년1학기/미국사회와법/Double Jeopardy.md"
   ]
 }
