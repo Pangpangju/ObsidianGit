@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
+                "file": "대학/3학년1학기/미디어와윤리/10주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "964dd1d74fdb72bf",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
+                "file": "대학/3학년1학기/미디어와윤리/10주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
+                "file": "대학/3학년1학기/미디어와윤리/10주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md"
+                "file": "대학/3학년1학기/미디어와윤리/10주차.md"
               }
             }
           }
@@ -157,6 +158,8 @@
   },
   "active": "3361c88ff489b556",
   "lastOpenFiles": [
+    "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
+    "대학/3학년1학기/미디어와윤리/10주차.md",
     "대학/3학년1학기/컴퓨터구조/과제/10주차.md",
     "대학/3학년1학기/컴퓨터구조/10주차.md",
     "대학/3학년1학기/컴퓨터구조/과제/9주차.md",
