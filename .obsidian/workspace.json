@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6ea9dd497d080bba",
+    "id": "f857d07ead5afa3b",
     "type": "split",
     "children": [
       {
-        "id": "aff2ca169c4a180a",
+        "id": "c323fb9334765b91",
         "type": "tabs",
         "children": [
           {
-            "id": "3361c88ff489b556",
+            "id": "2938ca0745bdb1c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/14주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f1384c98decda30",
+    "id": "9620f8a316318d25",
     "type": "split",
     "children": [
       {
-        "id": "48982707fd5f2099",
+        "id": "6b2fcd3e74ddbd89",
         "type": "tabs",
         "children": [
           {
-            "id": "52965d4fd9ee0b2a",
+            "id": "dadfd8864db0ee55",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "1a59e7b703062b12",
+            "id": "cf4bf8671f593012",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "0608a097f3f51f8a",
+            "id": "5012ab6ba95b1131",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,19 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "964dd1d74fdb72bf",
+    "id": "258f842cb3410147",
     "type": "split",
     "children": [
       {
-        "id": "106f1318c5512763",
+        "id": "b0eaf9c52580b835",
         "type": "tabs",
         "children": [
           {
-            "id": "4318df19d6c60907",
+            "id": "4642140dadbf1256",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -89,12 +88,12 @@
             }
           },
           {
-            "id": "3ecb7c35f1724686",
+            "id": "8fbb02eed1e1d3cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/14주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +105,19 @@
             }
           },
           {
-            "id": "f01ede85f8cbc851",
+            "id": "7f023a488f4522e7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/14주차.md",
+                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "940deeadf8f495b1",
+            "id": "9bb343a1db233f0d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +128,12 @@
             }
           },
           {
-            "id": "7fb4b64d9356ecb6",
+            "id": "93c9ab4fcd6ef13e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년1학기/미국사회와법/14주차.md"
+                "file": "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md"
               }
             }
           }
@@ -156,35 +155,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3361c88ff489b556",
+  "active": "2938ca0745bdb1c8",
   "lastOpenFiles": [
-    "대학/3학년1학기/미디어와윤리/13주차.md",
-    "대학/3학년1학기/미국사회와법/14주차.md",
-    "대학/3학년1학기/미디어와윤리/12주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/12주차.md",
-    "대학/3학년1학기/컴퓨터구조/11주차.md",
-    "대학/3학년1학기/컴퓨터구조/10주차.md",
-    "Hazard.md",
-    "PipeLining.md",
-    "DataFlow단계들.md",
-    "대학/3학년1학기/컴퓨터구조/9주차.md",
-    "대학/3학년1학기/미디어와윤리/11주차.md",
-    "대학/3학년1학기/미디어와윤리/10주차.md",
-    "대학/3학년1학기/미디어와윤리/7주차.md",
-    "대학/3학년1학기/미디어와윤리/중간고사.md",
-    "대학/3학년1학기/미국사회와법/11주차.md",
-    "대학/3학년1학기/컴퓨터구조/기말고사.md",
+    "대학/3학년1학기/교육용소프트웨어개발/2주차.md",
+    "대학/3학년1학기/교육용소프트웨어개발/1주차.md",
+    "대학/3학년1학기/교육용소프트웨어개발/0_교육용소프트웨어개발.md",
+    "대학/3학년1학기/컴퓨터구조/14주차.md",
+    "대학/3학년1학기/컴퓨터구조/12주차.md",
     "대학/3학년1학기/컴퓨터구조/중간고사.md",
-    "대학/3학년1학기/컴퓨터구조/7주차.md",
-    "대학/3학년1학기/미국사회와법/9주차.md",
-    "대학/3학년1학기/미국사회와법/중간고사.md",
-    "대학/3학년1학기/미국사회와법/7주차.md",
-    "Pasted image 20240504162335.png",
-    "Image/Pasted image 20240504155945.png",
-    "대학/3학년1학기/교육용소프트웨어개발/프로젝트 계획.md",
-    "대학/3학년1학기/컴퓨터구조/과제/10주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/9주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/7주차.md",
-    "대학/3학년1학기/미국사회와법/Double Jeopardy.md"
+    "대학/3학년1학기/컴퓨터구조/Little Endian.md",
+    "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
+    "EGG 상반기 계획.md",
+    "DataFlow단계들.md",
+    "대학/3학년1학기/컴퓨터구조/10주차.md",
+    "대학/3학년1학기/컴퓨터구조/11주차.md"
   ]
 }
