@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
                 "file": "대학/3학년1학기/미디어와윤리/11주차.md",
-=======
-                "file": "대학/3학년1학기/컴퓨터구조/과제/14주차.md",
->>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< Updated upstream
             "id": "b819a2ec734d7309",
-=======
-            "id": "d9baa4c253ee6a61",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/기말고사.md",
-=======
-                "file": "대학/3학년1학기/미국사회와법/기말고사.md",
->>>>>>> Stashed changes
+                "file": "대학/3학년1학기/미국사회와법/9주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,11 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/기말고사.md",
-=======
-                "file": "대학/3학년1학기/미국사회와법/기말고사.md",
->>>>>>> Stashed changes
+                "file": "대학/3학년1학기/미국사회와법/9주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,11 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/기말고사.md",
-=======
-                "file": "대학/3학년1학기/미국사회와법/기말고사.md",
->>>>>>> Stashed changes
+                "file": "대학/3학년1학기/미국사회와법/9주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/기말고사.md"
-=======
-                "file": "대학/3학년1학기/미국사회와법/기말고사.md"
->>>>>>> Stashed changes
+                "file": "대학/3학년1학기/미국사회와법/9주차.md"
               }
             }
           }
@@ -192,16 +168,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-<<<<<<< Updated upstream
   "active": "b819a2ec734d7309",
   "lastOpenFiles": [
-    "대학/3학년1학기/미디어와윤리/중간고사.md",
+    "대학/3학년1학기/미국사회와법/기말고사.md",
     "대학/3학년1학기/미디어와윤리/기말고사.md",
-    "대학/3학년1학기/미국사회와법/14주차.md",
-    "대학/3학년1학기/미국사회와법/Double Jeopardy.md",
-    "대학/3학년1학기/미국사회와법/중간고사.md",
     "대학/3학년1학기/미디어와윤리/14주차.md",
     "대학/3학년1학기/미국사회와법/11주차.md",
+    "대학/3학년1학기/미국사회와법/14주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/14주차.md",
+    "대학/3학년1학기/미디어와윤리/중간고사.md",
+    "대학/3학년1학기/미국사회와법/Double Jeopardy.md",
+    "대학/3학년1학기/미국사회와법/중간고사.md",
     "대학/3학년1학기/미국사회와법/9주차.md",
     "대학/3학년1학기/미국사회와법/7주차.md",
     "대학/3학년1학기/미디어와윤리/12주차.md",
@@ -219,40 +196,6 @@
     "대학/3학년1학기/컴퓨터구조/중간고사.md",
     "대학/3학년1학기/컴퓨터구조/Little Endian.md",
     "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png",
-    "EGG 상반기 계획.md",
-    "DataFlow단계들.md",
-    "대학/3학년1학기/컴퓨터구조/10주차.md"
-=======
-  "active": "d9baa4c253ee6a61",
-  "lastOpenFiles": [
-    "대학/3학년1학기/미국사회와법/11주차.md",
-    "대학/3학년1학기/미국사회와법/14주차.md",
-    "대학/3학년1학기/미국사회와법/기말고사.md",
-    "대학/3학년1학기/미국사회와법/중간고사.md",
-    "대학/3학년1학기/미국사회와법/9주차.md",
-    "대학/3학년1학기/미국사회와법/7주차.md",
-    "Hazard.md",
-    "EGG 상반기 계획.md",
-    "코딩/Game Dev/VFX/Nodes/System.md",
-    "코딩/Game Dev/VFX/Nodes/Context.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 2 행렬대수.md",
-    "코딩/DirectX를 이용한 3D 게임 프로그래밍 입문/Chapter. 1 기초 필수 수학.md",
-    "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
-    "대학/3학년1학기/미디어와윤리/14주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/14주차.md",
-    "대학/3학년1학기/미디어와윤리/기말고사.md",
-    "대학/3학년1학기/컴퓨터구조/14주차.md",
-    "대학/3학년1학기/컴퓨터구조/12주차.md",
-    "대학/3학년1학기/미디어와윤리/13주차.md",
-    "대학/3학년1학기/미디어와윤리/12주차.md",
-    "대학/3학년1학기/컴퓨터구조/과제/12주차.md",
-    "대학/3학년1학기/컴퓨터구조/11주차.md",
-    "대학/3학년1학기/컴퓨터구조/10주차.md",
-    "PipeLining.md",
-    "DataFlow단계들.md",
-    "대학/3학년1학기/컴퓨터구조/9주차.md",
-    "Pasted image 20240504162335.png",
-    "Image/Pasted image 20240504155945.png"
->>>>>>> Stashed changes
+    "EGG 상반기 계획.md"
   ]
 }
