@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "대학/3학년1학기/미디어와윤리/11주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "대학/3학년1학기/미디어와윤리/11주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,15 +154,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "대학/3학년1학기/미디어와윤리/11주차.md"
+              }
+            }
+          },
+          {
+            "id": "af238128d75fbd75",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +185,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5786343575f14f82",
+  "active": "2938ca0745bdb1c8",
   "lastOpenFiles": [
     "코딩/Operating System/Etc/프로시저 콜 vs. 시스템 콜.md",
     "코딩/Operating System/Etc/타이머 인터럽트(Timer interrupt).md",
