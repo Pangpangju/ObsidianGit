@@ -11,12 +11,17 @@
             "id": "2938ca0745bdb1c8",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
                 "file": "대학/3학년1학기/미디어와윤리/11주차.md",
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "graph",
+              "state": {}
+>>>>>>> Stashed changes
             }
           },
           {
@@ -115,7 +120,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "대학/3학년1학기/미디어와윤리/11주차.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +140,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "대학/3학년1학기/미디어와윤리/11주차.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +165,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "대학/3학년1학기/미디어와윤리/11주차.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           },
           {
@@ -185,8 +200,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+<<<<<<< Updated upstream
   "active": "2938ca0745bdb1c8",
   "lastOpenFiles": [
+=======
+  "active": "ec5af68f8d5c2a31",
+  "lastOpenFiles": [
+    "코딩/Operating System/3. Scheduling.md",
+    "문맥 교환 비용.md",
+    "Convoy effect.md",
+    "코딩/Operating System/2. CPU_Mechanisms.md",
+    "코딩/Operating System/Etc/스케줄러(Scheduler).md",
+    "코딩/Operating System/1. Process.md",
+    "코딩/Operating System/Etc/문맥 교환(Context switch).md",
+    "코딩/Operating System/Etc/정책(Policy).md",
+    "코딩/Operating System/Etc/타이머 인터럽트(Timer interrupt).md",
+    "코딩/Operating System/Etc",
+>>>>>>> Stashed changes
     "코딩/Operating System/Etc/프로시저 콜 vs. 시스템 콜.md",
     "코딩/Operating System/Etc/타이머 인터럽트(Timer interrupt).md",
     "코딩/Operating System/Etc/제한된 연산.md",
@@ -208,6 +238,7 @@
     "대학/3학년1학기/컴퓨터구조/9주차.md",
     "대학/3학년1학기/컴퓨터구조/10주차.md",
     "대학/3학년1학기/컴퓨터구조/11주차.md",
+<<<<<<< Updated upstream
     "대학/3학년1학기/미디어와윤리/기말고사.md",
     "EGG 상반기 계획.md",
     "대학/3학년1학기/미디어와윤리/중간고사.md",
@@ -217,5 +248,18 @@
     "대학/3학년1학기/미국사회와법/9주차.md",
     "대학/3학년1학기/미디어와윤리/14주차.md",
     "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png"
+=======
+    "대학/3학년1학기/컴퓨터구조/9주차.md",
+    "대학/3학년1학기/컴퓨터구조/4주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/14주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/10주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/9주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/2주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/3주차.md",
+    "대학/3학년1학기/컴퓨터구조/과제/4주차.md",
+    "코딩/Operating System",
+    "Pasted image 20240616190450.png",
+    "Pasted image 20240504162335.png"
+>>>>>>> Stashed changes
   ]
 }
