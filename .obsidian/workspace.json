@@ -1,49 +1,30 @@
 {
   "main": {
-    "id": "f857d07ead5afa3b",
+    "id": "f07c6de80e06f4b0",
     "type": "split",
     "children": [
       {
-        "id": "c323fb9334765b91",
+        "id": "9ec766903c95631a",
         "type": "tabs",
         "children": [
           {
-            "id": "2938ca0745bdb1c8",
+            "id": "ec5af68f8d5c2a31",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/11주차.md",
+                "file": "코딩/Operating System/2. CPU_Mechanisms.md",
                 "mode": "source",
                 "source": false
               }
-=======
-              "type": "graph",
+            }
+          },
+          {
+            "id": "67f33fd43605f38a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
->>>>>>> Stashed changes
-            }
-          },
-          {
-            "id": "b819a2ec734d7309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학/3학년1학기/컴퓨터구조/14주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5786343575f14f82",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
             }
           }
         ]
@@ -52,15 +33,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9620f8a316318d25",
+    "id": "0002ea8f43c3d3f3",
     "type": "split",
     "children": [
       {
-        "id": "6b2fcd3e74ddbd89",
+        "id": "15a87b0d213f0de4",
         "type": "tabs",
         "children": [
           {
-            "id": "dadfd8864db0ee55",
+            "id": "9d1d8556548b7b35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +51,7 @@
             }
           },
           {
-            "id": "cf4bf8671f593012",
+            "id": "00093e65fd551bb9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +66,7 @@
             }
           },
           {
-            "id": "5012ab6ba95b1131",
+            "id": "2ca7e489c47192c9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,18 +77,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "258f842cb3410147",
+    "id": "7bf753e49f946db2",
     "type": "split",
     "children": [
       {
-        "id": "b0eaf9c52580b835",
+        "id": "2d979932bd6dc9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "4642140dadbf1256",
+            "id": "066f286651408957",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -115,15 +96,12 @@
             }
           },
           {
-            "id": "8fbb02eed1e1d3cc",
+            "id": "331cbc204089d40d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/11주차.md",
-=======
->>>>>>> Stashed changes
+                "file": "코딩/Operating System/2. CPU_Mechanisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,22 +113,19 @@
             }
           },
           {
-            "id": "7f023a488f4522e7",
+            "id": "81bce7920ce75f25",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "대학/3학년1학기/미디어와윤리/11주차.md",
-=======
->>>>>>> Stashed changes
+                "file": "코딩/Operating System/2. CPU_Mechanisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9bb343a1db233f0d",
+            "id": "93f00a67f5cc9480",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,33 +136,21 @@
             }
           },
           {
-            "id": "93c9ab4fcd6ef13e",
+            "id": "f6472135c796cc47",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
               "state": {
-                "file": "대학/3학년1학기/미디어와윤리/11주차.md"
+                "file": "코딩/Operating System/2. CPU_Mechanisms.md"
               }
-=======
-              "state": {}
->>>>>>> Stashed changes
-            }
-          },
-          {
-            "id": "af238128d75fbd75",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +163,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "2938ca0745bdb1c8",
-  "lastOpenFiles": [
-=======
   "active": "ec5af68f8d5c2a31",
   "lastOpenFiles": [
     "코딩/Operating System/3. Scheduling.md",
@@ -216,39 +175,15 @@
     "코딩/Operating System/Etc/정책(Policy).md",
     "코딩/Operating System/Etc/타이머 인터럽트(Timer interrupt).md",
     "코딩/Operating System/Etc",
->>>>>>> Stashed changes
     "코딩/Operating System/Etc/프로시저 콜 vs. 시스템 콜.md",
-    "코딩/Operating System/Etc/타이머 인터럽트(Timer interrupt).md",
     "코딩/Operating System/Etc/제한된 연산.md",
-    "코딩/Operating System/Etc/정책(Policy).md",
-    "코딩/Operating System/Etc/시분할.md",
-    "코딩/Operating System/Etc/스케줄러(Scheduler).md",
-    "코딩/Operating System/Etc/문맥 교환(Context switch).md",
-    "코딩/Operating System/Etc",
-    "코딩/Operating System/2. CPU_Mechanisms.md",
-    "코딩/Operating System/1. Process.md",
     "코딩/Operating System/0. Index.md",
-    "코딩/Operating System",
-    "대학/3학년1학기/컴퓨터구조/PipeLining.md",
-    "대학/3학년1학기/컴퓨터구조/Hazard.md",
-    "대학/3학년1학기/컴퓨터구조/DataFlow단계들.md",
-    "대학/3학년1학기/컴퓨터구조/14주차.md",
-    "대학/3학년1학기/컴퓨터구조/12주차.md",
-    "Pasted image 20240616190450.png",
-    "대학/3학년1학기/컴퓨터구조/9주차.md",
+    "MarkDown.md",
+    "코딩/Operating System/Etc/시분할.md",
+    "대학/3학년1학기/컴퓨터구조/3주차.md",
+    "대학/3학년1학기/컴퓨터구조/5주차.md",
     "대학/3학년1학기/컴퓨터구조/10주차.md",
     "대학/3학년1학기/컴퓨터구조/11주차.md",
-<<<<<<< Updated upstream
-    "대학/3학년1학기/미디어와윤리/기말고사.md",
-    "EGG 상반기 계획.md",
-    "대학/3학년1학기/미디어와윤리/중간고사.md",
-    "대학/3학년1학기/미국사회와법/무제 파일.md",
-    "대학/3학년1학기/미국사회와법/기말고사.md",
-    "대학/3학년1학기/미국사회와법/중간고사.md",
-    "대학/3학년1학기/미국사회와법/9주차.md",
-    "대학/3학년1학기/미디어와윤리/14주차.md",
-    "Image/DALL·E 2023-12-30 02.45.54 - A Shiba Inu character with brown eyes, coding on a laptop without any brand logos in a late 1990s American cartoon style, similar to the Powerpuff Gir (1).png"
-=======
     "대학/3학년1학기/컴퓨터구조/9주차.md",
     "대학/3학년1학기/컴퓨터구조/4주차.md",
     "대학/3학년1학기/컴퓨터구조/과제/14주차.md",
@@ -260,6 +195,5 @@
     "코딩/Operating System",
     "Pasted image 20240616190450.png",
     "Pasted image 20240504162335.png"
->>>>>>> Stashed changes
   ]
 }
