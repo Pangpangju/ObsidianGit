@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년2학기/컴퓨터보안/2주차.md",
+                "file": "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년2학기/컴퓨터보안/2주차.md",
+                "file": "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년2학기/컴퓨터보안/2주차.md",
+                "file": "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년2학기/컴퓨터보안/2주차.md"
+                "file": "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md"
               }
             }
           }
@@ -169,7 +169,16 @@
   },
   "active": "3c94e031f9a542b1",
   "lastOpenFiles": [
+    "대학/3학년2학기/클라우드컴퓨팅개론/3주차.md",
+    "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md",
     "대학/3학년2학기/클라우드컴퓨팅개론/2주차.md",
+    "대학/3학년2학기/클라우드컴퓨팅개론/SLA.md",
+    "코딩/코테/C++/시간복잡도.md",
+    "코딩/코테/C++/0. C++ 로 준비하는 코딩테스트.md",
+    "코딩/코테/C++/Split 구현.md",
+    "코딩/코테/개념.md",
+    "코딩/코테/코테준비.md",
+    "코딩/코테/Python.md",
     "대학/3학년2학기/컴퓨터보안/2주차.md",
     "대학/3학년2학기/3학년 2학기 Index.md",
     "대학/3학년2학기/클라우드컴퓨팅개론/0_클라우드컴퓨팅개론.md",
@@ -181,7 +190,6 @@
     "대학/3학년1학기/3학년 1학기 Index.md",
     "코딩/Operating System/Etc/캐시 친화성(Cache affinity).md",
     "Image/Pasted image 20240504162335.png",
-    "코딩/코테/C++/0. C++ 로 준비하는 코딩테스트.md",
     "Image/몰루.png",
     "Image/어쩌라는거지.png",
     "Image/에.png",
@@ -199,14 +207,6 @@
     "코딩/Operating System/1.Virtualization/1. Process.md",
     "코딩/Operating System/1.Virtualization/7. Virtualization-Intro.md",
     "코딩/Operating System/Etc/가상화(Virtualization).md",
-    "코딩/Operating System/Etc/스케줄러(Scheduler).md",
-    "코딩/Operating System/1.Virtualization/6. Multiprocessor Scheduling.md",
-    "코딩/코테/C++/중복된 요소를 제거.md",
-    "코딩/코테/C++/Split 구현.md",
-    "코딩/코테/C++/재귀함수.md",
-    "코딩/Operating System/1.Virtualization/5. Scheduling-Lottery.md",
-    "코딩/Operating System/1.Virtualization/4. Multi-level Feedback Queue.md",
-    "코딩/Operating System/1.Virtualization/3. Scheduling.md",
     "코딩/코테/C++",
     "코딩/Operating System/2. Concurrency",
     "코딩/Operating System/1.Virtualization",
