@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f07c6de80e06f4b0",
+    "id": "370ef0bf2fe54680",
     "type": "split",
     "children": [
       {
-        "id": "9ec766903c95631a",
+        "id": "cb198da569e5efd9",
         "type": "tabs",
         "children": [
           {
-            "id": "3c94e031f9a542b1",
+            "id": "0aa5e545d303926c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,40 +20,33 @@
             }
           },
           {
-            "id": "cdd9feeccae780ca",
+            "id": "4c68f78a842f690e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩/Operating System/Etc/캐시 친화성(Cache affinity).md",
+                "file": "대학/3학년2학기/클라우드컴퓨팅개론/3주차.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "67f33fd43605f38a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0002ea8f43c3d3f3",
+    "id": "11743bc314c103ef",
     "type": "split",
     "children": [
       {
-        "id": "15a87b0d213f0de4",
+        "id": "70946666c9e711dc",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1d8556548b7b35",
+            "id": "d583119ef57b85b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +56,7 @@
             }
           },
           {
-            "id": "00093e65fd551bb9",
+            "id": "fe738872f5284940",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +71,7 @@
             }
           },
           {
-            "id": "2ca7e489c47192c9",
+            "id": "89d7f3dda21c2686",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "7bf753e49f946db2",
+    "id": "9dd99746465d63b4",
     "type": "split",
     "children": [
       {
-        "id": "2d979932bd6dc9b7",
+        "id": "a8b89fdf53468f18",
         "type": "tabs",
         "children": [
           {
-            "id": "331cbc204089d40d",
+            "id": "f067396f1edf8990",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md",
+                "file": "대학/3학년2학기/클라우드컴퓨팅개론/3주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +110,19 @@
             }
           },
           {
-            "id": "81bce7920ce75f25",
+            "id": "36d3ae0b145ab11b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md",
+                "file": "대학/3학년2학기/클라우드컴퓨팅개론/3주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "93f00a67f5cc9480",
+            "id": "32e397ef01c4a3c6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +133,12 @@
             }
           },
           {
-            "id": "f6472135c796cc47",
+            "id": "4b15305ac6eae79d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md"
+                "file": "대학/3학년2학기/클라우드컴퓨팅개론/3주차.md"
               }
             }
           }
@@ -167,52 +160,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3c94e031f9a542b1",
+  "active": "4c68f78a842f690e",
   "lastOpenFiles": [
-    "대학/3학년2학기/클라우드컴퓨팅개론/3주차.md",
     "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md",
-    "대학/3학년2학기/클라우드컴퓨팅개론/2주차.md",
-    "대학/3학년2학기/클라우드컴퓨팅개론/SLA.md",
+    "대학/3학년2학기/클라우드컴퓨팅개론/5주차.md",
+    "대학/3학년2학기/클라우드컴퓨팅개론/3주차.md",
+    "코딩/Operating System/1.Virtualization/4. Multi-level Feedback Queue.md",
     "코딩/코테/C++/시간복잡도.md",
-    "코딩/코테/C++/0. C++ 로 준비하는 코딩테스트.md",
-    "코딩/코테/C++/Split 구현.md",
-    "코딩/코테/개념.md",
-    "코딩/코테/코테준비.md",
-    "코딩/코테/Python.md",
-    "대학/3학년2학기/컴퓨터보안/2주차.md",
-    "대학/3학년2학기/3학년 2학기 Index.md",
+    "대학/3학년2학기/클라우드컴퓨팅개론/SLA.md",
+    "대학/3학년2학기/클라우드컴퓨팅개론/2주차.md",
     "대학/3학년2학기/클라우드컴퓨팅개론/0_클라우드컴퓨팅개론.md",
-    "대학/3학년2학기/컴퓨터보안/0_컴퓨터보안.md",
-    "대학/3학년2학기/컴퓨터교육교과론/0_컴퓨터교육교과론.md",
-    "대학/3학년2학기/교육평가/0_교육평가.md",
-    "대학/3학년2학기/교육평가/2주차.md",
-    "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
-    "대학/3학년1학기/3학년 1학기 Index.md",
-    "코딩/Operating System/Etc/캐시 친화성(Cache affinity).md",
-    "Image/Pasted image 20240504162335.png",
-    "Image/몰루.png",
-    "Image/어쩌라는거지.png",
-    "Image/에.png",
-    "Image/좋았쓰.png",
-    "Image/좋졌쓰.png",
-    "Image/Pasted image 20240214185447.png",
-    "대학/3학년2학기/교육평가",
-    "대학/3학년2학기/컴퓨터교육교과론/2주차.md",
     "대학/3학년2학기/클라우드컴퓨팅개론",
-    "대학/3학년2학기/컴퓨터교육교과론",
-    "코딩/Operating System/Etc/제한적 직접 실행(LDE).md",
+    "대학/3학년2학기/컴퓨터보안/2주차.md",
+    "대학/3학년2학기/컴퓨터보안/0_컴퓨터보안.md",
     "대학/3학년2학기/컴퓨터보안",
+    "대학/3학년2학기/컴퓨터교육교과론/2주차.md",
+    "대학/3학년2학기/컴퓨터교육교과론/0_컴퓨터교육교과론.md",
+    "대학/3학년2학기/컴퓨터교육교과론",
+    "대학/3학년2학기/교육평가/2주차.md",
+    "대학/3학년2학기/교육평가/0_교육평가.md",
+    "대학/3학년2학기/교육평가",
+    "대학/3학년2학기/3학년 2학기 Index.md",
     "대학/3학년2학기",
-    "코딩/Operating System/1.Virtualization/8. VM-Mechanism.md",
-    "코딩/Operating System/1.Virtualization/1. Process.md",
+    "코딩/Operating System/1.Virtualization/6. Multiprocessor Scheduling.md",
     "코딩/Operating System/1.Virtualization/7. Virtualization-Intro.md",
-    "코딩/Operating System/Etc/가상화(Virtualization).md",
-    "코딩/코테/C++",
-    "코딩/Operating System/2. Concurrency",
-    "코딩/Operating System/1.Virtualization",
-    "Image/에.jpg",
-    "Image/Pasted image 20240616190450.png",
-    "코딩/Operating System/Etc",
-    "코딩/Operating System"
+    "코딩/Operating System/1.Virtualization/8. VM-Mechanism.md"
   ]
 }
