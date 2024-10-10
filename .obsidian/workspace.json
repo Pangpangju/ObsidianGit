@@ -13,14 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/3학년2학기/교육평가/3주차.md",
+                "file": "대학/3학년2학기/미분적분학1/암기/L'Hôpital's Rule.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdd9feeccae780ca",
+            "id": "cf223652a6da9c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학/3학년2학기/컴퓨터보안/2주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9befba32ceef92f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +51,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/3학년2학기/교육평가/3주차.md",
+                "file": "대학/3학년2학기/컴퓨터보안/2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/3학년2학기/교육평가/3주차.md",
+                "file": "대학/3학년2학기/컴퓨터보안/2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/3학년2학기/교육평가/3주차.md"
+                "file": "대학/3학년2학기/컴퓨터보안/2주차.md"
               }
             }
           }
@@ -167,34 +180,40 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3c94e031f9a542b1",
+  "active": "cf223652a6da9c7f",
   "lastOpenFiles": [
-    "Image/Pasted image 20241002181037.png",
-    "MarkDown.md",
-    "대학/3학년2학기/교육평가/3주차.md",
-    "대학/3학년2학기/교육평가/4주차.md",
     "대학/3학년2학기/컴퓨터보안/4주차.md",
+    "대학/3학년2학기/교육평가/5주차.md",
+    "대학/3학년2학기/교육평가/4주차.md",
+    "대학/3학년2학기/미분적분학1/5주차.md",
     "대학/3학년2학기/클라우드컴퓨팅개론/0_클라우드컴퓨팅개론.md",
     "대학/3학년2학기/컴퓨터보안/0_컴퓨터보안.md",
     "대학/3학년2학기/컴퓨터교육교과론/0_컴퓨터교육교과론.md",
-    "대학/3학년2학기/컴퓨터교육교과론/2주차.md",
     "대학/3학년2학기/교육평가/0_교육평가.md",
-    "대학/3학년2학기/컴퓨터보안/2주차.md",
-    "대학/3학년2학기/교육평가/2주차.md",
-    "대학/3학년2학기/클라우드컴퓨팅개론/5_1.md",
+    "대학/3학년2학기/미분적분학1/암기/Left&Right Endpoint Approximation.md",
+    "대학/3학년2학기/미분적분학1/암기/Linearization.md",
+    "대학/3학년2학기/미분적분학1/암기/L'Hôpital's Rule.md",
+    "Image/Pasted image 20241009201615.png",
+    "Image/Pasted image 20241009201605.png",
+    "Left",
+    "대학/3학년2학기/미분적분학1/0_미분적분학.md",
+    "대학/3학년2학기/미분적분학1/4주차.md",
+    "대학/3학년2학기/클라우드컴퓨팅개론/6주차.md",
+    "코딩/Operating System/Etc/캐시 친화성(Cache affinity).md",
     "대학/3학년2학기/클라우드컴퓨팅개론/5주차.md",
-    "대학/3학년2학기/클라우드컴퓨팅개론/4주차.md",
-    "대학/3학년2학기/클라우드컴퓨팅개론/3주차.md",
-    "대학/3학년2학기/클라우드컴퓨팅개론/2주차.md",
-    "대학/3학년2학기/클라우드컴퓨팅개론/SLA.md",
-    "코딩/코테/C++/시간복잡도.md",
-    "코딩/코테/C++/0. C++ 로 준비하는 코딩테스트.md",
-    "코딩/코테/C++/Split 구현.md",
-    "코딩/코테/개념.md",
-    "코딩/코테/코테준비.md",
-    "코딩/코테/Python.md",
-    "대학/3학년2학기/3학년 2학기 Index.md",
-    "대학/3학년1학기/미국사회와법/0_미국사회와법.md",
+    "대학/3학년2학기/미분적분학1/1주차.md",
+    "대학/3학년2학기/미분적분학1/2주차.md",
+    "대학/3학년2학기/미분적분학1/3주차.md",
+    "대학/3학년2학기/미분적분학1/암기/Intermediate Value Theorem.md",
+    "대학/3학년2학기/미분적분학1/암기/Squeeze Theorem.md",
+    "대학/3학년2학기/미분적분학1/암기/Mean Value Theorem.md",
+    "대학/3학년2학기/미분적분학1/암기/Rolle's Theorem.md",
+    "대학/3학년2학기/컴퓨터보안/2주차.md",
+    "대학/3학년2학기/미분적분학1/암기",
+    "대학/3학년2학기/미분적분학1",
+    "대학/3학년2학기/교육평가/3주차.md",
+    "Image/Pasted image 20241002181037.png",
+    "MarkDown.md",
     "Image/Pasted image 20240504162335.png",
     "Image/몰루.png",
     "Image/어쩌라는거지.png",
@@ -208,11 +227,6 @@
     "대학/3학년2학기/컴퓨터보안",
     "대학/3학년2학기",
     "코딩/코테/C++",
-    "코딩/Operating System/2. Concurrency",
-    "코딩/Operating System/1.Virtualization",
-    "Image/에.jpg",
-    "Image/Pasted image 20240616190450.png",
-    "코딩/Operating System/Etc",
-    "코딩/Operating System"
+    "코딩/Operating System/2. Concurrency"
   ]
 }
