@@ -286,7 +286,11 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 610,
+<<<<<<< Updated upstream
   "cMenuFontColor": "#00b050",
+=======
+  "cMenuFontColor": "#00b0f0",
+>>>>>>> Stashed changes
   "cMenuBackgroundColor": "#fff88f",
   "autohide": false,
   "custom_bg1": "#FFB78B8C",
